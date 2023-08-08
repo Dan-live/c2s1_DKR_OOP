@@ -4,5 +4,5 @@ information about all goods), weight goods (weight; type: flour/salt/sugar/cerea
 price per kilogram; price), beverages (volume; type: mineral water, sweet water, beer, milk; price),
 non-food products (type: soap, powder, toothpaste; price).
 #
-![image](https://github.com/Dan-live/k2s1_DKR_OOP/assets/109356212/7d39c3c1-66e3-4803-bdb3-77b9afc03af4)
+![image](https://github.com/Dan-live/k2s1_DKR_OOP/assets/109356212/09eff29b-32ce-4a1d-8318-f05f31434b34)
 ![image](https://github.com/Dan-live/k2s1_DKR_OOP/assets/109356212/21d7f9b1-a3b7-402b-aaff-53d773569049)
