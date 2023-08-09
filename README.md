@@ -1,4 +1,4 @@
-# k2s1_DKR_OOP
+# c2s1_DKR_OOP
 Basket of goods (number of goods; total cost; type of goods: food/non-food/mixed; display
 information about all goods), weight goods (weight; type: flour/salt/sugar/cereals/sweets/spices;
 price per kilogram; price), beverages (volume; type: mineral water, sweet water, beer, milk; price),
